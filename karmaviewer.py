@@ -1,14 +1,11 @@
 try: input = raw_input # checks to see if in Python 3x or 2x to get input() command
 except NameError: pass
 
-localclientid = '<YOUR CLIENT ID HERE>' # see readme.md for info on how to set this up
-localclientsecret = '<YOUR CLIENT SECRET HERE>'  # see readme.md for info on how to set this up
-
 import praw #Makes sure we can use the module
 #The next part will tell reddit that we are who we are, so that we can
 #grab info from accounts.
-reddit = praw.Reddit(client_id=localclientid,
-                     client_secret=localclientsecret,
+reddit = praw.Reddit(client_id='<YOUR CLIENT ID HERE>',
+                     client_secret='<YOUR CLIENT SECRET HERE>',
                      user_agent='RPi Karma Viewer') # This can be the title of the project
 
 me = reddit.redditor(input("Enter a reddit username: ")) #Defines the reddit username
