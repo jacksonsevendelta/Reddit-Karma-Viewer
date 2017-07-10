@@ -23,5 +23,4 @@ print "TOTAL KARMA:",totalkarma
 print "LINK KARMA:",linkkarma
 print "COMMENT KARMA:",commentkarma
 print "Finished for username",me
-# print "Additionally, you can find this username's reddit page at https://reddit.com/u/
 print "Additionally, you can find this user's page at https://reddit.com/u/{}.".format(me)
