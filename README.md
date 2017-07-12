@@ -16,4 +16,4 @@
     - You should now see something like [this.](http://imgur.com/a/rebym)
     - Copy down the `client ID` (in the top right under `personal use script`) and your `secret`.
 
-4. Replace `<YOUR CLIENT ID HERE>` and `<YOUR CLIENT SECRET HERE>` with the appropriate values in karmaviewer.py before running it.
+4. Replace `<YOUR CLIENT ID HERE>` and `<YOUR CLIENT SECRET HERE>` with the appropriate values in [karmaviewer.py](https://github.com/jacksonsevendelta/Reddit-Karma-Viewer/karmaviewer.py) before running it.
