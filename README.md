@@ -1,7 +1,7 @@
 # Reddit Karma Viewer
 ### Copyright (c) @jacksonsevendelta (aka [u/gadkaris](https://reddit.com/u/gadkaris))
 
-*note: **will only work using Python 2x.** This comes default on most Raspbian images, so you should be fine.*
+note: **will only work using Python 2x.** This comes default on most Raspbian images, so you should be fine.
 
 ## Reddit PRAW Interface Instructions
 1. Go to https://reddit.com/prefs/apps
