@@ -22,5 +22,5 @@ note: **will only work using Python 2x.** This comes default on most Raspbian im
 5. Replace `<YOUR CLIENT ID HERE>` and `<YOUR CLIENT SECRET HERE>` with the appropriate values in [karmaviewer.py](https://github.com/jacksonsevendelta/Reddit-Karma-Viewer/karmaviewer.py) before running it.
 
 ## Wiki Pages
-[Home](https://github.com/jacksonsevendelta/RedditKarmaViewer/wiki)
-[DEMO](https://github.com/jacksonsevendelta/RedditKarmaViewer/wiki/DEMO)
+[Home](https://github.com/jacksonsevendelta/RedditKarmaViewer/wiki)  
+[DEMO](https://github.com/jacksonsevendelta/RedditKarmaViewer/wiki/DEMO)  
