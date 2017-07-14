@@ -25,4 +25,4 @@ note: **will only work using Python 2x.** This comes default on most Raspbian im
 [Home](https://github.com/jacksonsevendelta/RedditKarmaViewer/wiki)  
 [DEMO](https://github.com/jacksonsevendelta/RedditKarmaViewer/wiki/DEMO)  
 
-### The code for this program is copyright © 2017 @jacksonsevendelta. Under the MIT License, you may distribute the software if you give credit to the creator (@jacksonsevendelta), use the same license to distribute it, and accept liability for any damage occurred.
+*The code for this program is copyright © 2017 @jacksonsevendelta. Under the MIT License, you may distribute the software if you give credit to the creator (@jacksonsevendelta), use the same license to distribute it, and accept liability for any damage occurred.*
