@@ -1,7 +1,7 @@
 # Reddit Karma Viewer
 ### Copyright © @jacksonsevendelta (aka [u/gadkaris](https://reddit.com/u/gadkaris))
 
-This code will only work under Python 2x. Python 3 and later is not supported, however, you may edit the code yourself to make it Python 3x compatible. If you do, please fork this project so others can use your program.
+This code will only work under Python 2x. Python 3 and later is not supported, however, you may edit the code yourself to make it Python 3x compatible. If you do, please fork this project so others can benefit from your program.
 
 ## Reddit PRAW Interface Instructions
 1. In a terminal, run `sudo pip install --upgrade praw`
@@ -25,4 +25,9 @@ This code will only work under Python 2x. Python 3 and later is not supported, h
 [Home](https://github.com/jacksonsevendelta/RedditKarmaViewer/wiki)  
 [DEMO](https://github.com/jacksonsevendelta/RedditKarmaViewer/wiki/DEMO)  
 
+## License Information
+
 *The code for this program is copyright © 2017 @jacksonsevendelta. Under the MIT License, you may distribute the software if you give credit to the creator (@jacksonsevendelta), use the same license to distribute it, and accept liability for any damage occurred.*
+
+Click [here](https://github.com/jacksonsevendelta/RedditKarmaViewer/blob/master/LICENSE) to view the full license.
+
