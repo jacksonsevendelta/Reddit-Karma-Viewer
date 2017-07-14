@@ -1,5 +1,5 @@
 # Reddit Karma Viewer
-### Copyright (c) @jacksonsevendelta (aka [u/gadkaris](https://reddit.com/u/gadkaris))
+### Copyright © @jacksonsevendelta (aka [u/gadkaris](https://reddit.com/u/gadkaris))
 
 note: **will only work using Python 2x.** This comes default on most Raspbian images, so you should be fine.
 
@@ -24,3 +24,5 @@ note: **will only work using Python 2x.** This comes default on most Raspbian im
 ## Wiki Pages
 [Home](https://github.com/jacksonsevendelta/RedditKarmaViewer/wiki)  
 [DEMO](https://github.com/jacksonsevendelta/RedditKarmaViewer/wiki/DEMO)  
+
+### The code for this program is copyright © 2017 @jacksonsevendelta. Under the MIT License, you may distribute the software if you give credit to the creator (@jacksonsevendelta), use the same license to distribute it, and accept liability for any damage occurred.
